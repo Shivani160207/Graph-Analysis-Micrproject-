@@ -1,0 +1,36 @@
+activity_id,activity_name,activity_type
+A001,AI Club,Club
+A002,Coding Club,Club
+A003,Robotics Club,Club
+A004,IoT Club,Club
+A005,Cyber Security Club,Club
+A006,Photography Club,Club
+A007,Music Club,Club
+A008,Sports Club,Club
+A009,Hackathon,Event
+A010,Tech Fest,Event
+A011,Project Expo,Event
+A012,Ideathon,Event
+A013,Coding Competition,Competition
+A014,Innovation Challenge,Competition
+A015,Quiz Competition,Competition
+A016,DBMS,Course
+A017,Data Structures,Course
+A018,Machine Learning,Course
+A019,Web Development,Course
+A020,Computer Networks,Course
+A021,Operating Systems,Course
+A022,AI Workshop,Workshop
+A023,Python Workshop,Workshop
+A024,Cloud Computing Workshop,Workshop
+A025,Cybersecurity Workshop,Workshop
+A026,IoT Workshop,Workshop
+A027,Robotics Workshop,Workshop
+A028,Smart Campus,Project
+A029,Health Monitoring System,Project
+A030,Smart Agriculture,Project
+A031,E-Commerce System,Project
+A032,Traffic Management System,Project
+A033,College Sports Meet,Sports
+A034,Cultural Fest,Event
+A035,Research Project,Project

@@ -1,0 +1,4 @@
+scenario,students,connections,average_degree,connected_components,largest_component
+Original Network,150,3681,49.08,1,150
+After removing S026 (highest degree),149,3580,48.05,1,149
+After removing S114 (highest betweenness),149,3598,48.3,1,149
